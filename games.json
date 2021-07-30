@@ -1,17 +1,22 @@
 {
 	"1": {
-		"contractAddress": "0x360BBC11322C77Dadc1DDCdb26224271C96CFD47"
+		"contractAddress": "0x360BBC11322C77Dadc1DDCdb26224271C96CFD47",
+		"gameName": "Beta Pool"
 	},
 	"2": {
-		"contractAddress": "0xB81E1db4771C28250C98b3099Ec9962e269b4022"
+		"contractAddress": "0xB81E1db4771C28250C98b3099Ec9962e269b4022",
+		"gameName": "Meta Gamma Delta Exclusive Pool"
 	},
 	"3": {
-		"contractAddress": "0x9B5B6B4E889faca1e4Fc836a12102d6ffe8B5f52"
+		"contractAddress": "0x9B5B6B4E889faca1e4Fc836a12102d6ffe8B5f52",
+		"gameName": "EthCC Savings Pool 🇫🇷"
 	},
 	"4": {
-		"contractAddress": "0x0F59f76f021BAfA4bc3E264E75199aFE5D839335"
+		"contractAddress": "0x0F59f76f021BAfA4bc3E264E75199aFE5D839335",
+		"gameName": "🌞 Summer Savers 🌞"
 	},
 	"default": {
-		"contractAddress": "0x0F59f76f021BAfA4bc3E264E75199aFE5D839335"
+		"contractAddress": "0x0F59f76f021BAfA4bc3E264E75199aFE5D839335",
+		"gameName": "🌞 Summer Savers 🌞"
 	}
 }
