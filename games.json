@@ -1,3 +1,7 @@
 {
-	"contractAddress": "0x9B5B6B4E889faca1e4Fc836a12102d6ffe8B5f52"
+  "1": { contractAddress: "0x360BBC11322C77Dadc1DDCdb26224271C96CFD47" }, 
+  "2": { contractAddress: "0xB81E1db4771C28250C98b3099Ec9962e269b4022" },
+  "3": { contractAddress: "0x9B5B6B4E889faca1e4Fc836a12102d6ffe8B5f52" },
+  "4": { contractAddress: "0x0F59f76f021BAfA4bc3E264E75199aFE5D839335" },
+  "default": { contractAddress: "0x0F59f76f021BAfA4bc3E264E75199aFE5D839335" },
 }
