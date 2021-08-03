@@ -16,7 +16,7 @@
 		"gameName": "🌞 Summer Savers 🌞"
 	},
 	"default": {
-		"contractAddress": "0xe26d48d6367FD8CE5dE5dFC433E67ee1440Fc537",
-		"gameName": "Internal Test Game"
+		"contractAddress": "0x8329AF4a8E834649953EB67DF653a5B923D0467c",
+		"gameName": "12-Hour-Segment Internal Test Game"
 	}
 }
