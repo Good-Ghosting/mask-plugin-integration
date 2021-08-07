@@ -20,7 +20,7 @@
 		"gameName": "2x-12-Hour-Segment Internal Test Game"
 	},
         "default": {
-		"contractAddress": "0x62369ebe2a3BcF8fcd0C3234Bcf880f783265ae3",
-		"gameName": "test 2 - 2x 30-Min-Segment"
+		"contractAddress": "0x66BD49aFFac2107D0A9023532c9597CE64ED2E87",
+		"gameName": "test 3 - 2x 10-hour-Segment"
 	}
 }
