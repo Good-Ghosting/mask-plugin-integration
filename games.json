@@ -17,10 +17,10 @@
 	},
 	"5": {
 		"contractAddress": "0x4aC6C237160275144B63814227eC71797257e25a",
-		"gameName": "Mask Network Game"
+		"gameName": "Mask Network Pool"
 	},
         "default": {
 		"contractAddress": "0x4aC6C237160275144B63814227eC71797257e25a",
-		"gameName": "Mask Network Game"
+		"gameName": "Mask Network Pool"
 	}
 }
