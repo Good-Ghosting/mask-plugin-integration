@@ -15,12 +15,12 @@
 		"contractAddress": "0x0F59f76f021BAfA4bc3E264E75199aFE5D839335",
 		"gameName": "🌞 Summer Savers 🌞"
 	},
-	"12-hour": {
-		"contractAddress": "0x9884ad7A9a22F54271eE6E5e4814BEfB9cd5e0f6",
-		"gameName": "2x-12-Hour-Segment Internal Test Game"
+	"5": {
+		"contractAddress": "0x4aC6C237160275144B63814227eC71797257e25a",
+		"gameName": "Mask.io Network Game"
 	},
         "default": {
-		"contractAddress": "0xA35E00B318170e0fDD692E21F68B17d77FF8e97B",
-		"gameName": "test 6 - 2x 60-min-Segment"
+		"contractAddress": "0x4aC6C237160275144B63814227eC71797257e25a",
+		"gameName": "Mask.io Network Game"
 	}
 }
