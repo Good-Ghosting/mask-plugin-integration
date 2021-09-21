@@ -1,26 +1,34 @@
 {
-	"1": {
-		"contractAddress": "0x360BBC11322C77Dadc1DDCdb26224271C96CFD47",
-		"gameName": "Beta Pool"
-	},
-	"2": {
-		"contractAddress": "0xB81E1db4771C28250C98b3099Ec9962e269b4022",
-		"gameName": "Meta Gamma Delta Exclusive Pool"
-	},
-	"3": {
-		"contractAddress": "0x9B5B6B4E889faca1e4Fc836a12102d6ffe8B5f52",
-		"gameName": "EthCC Savings Pool 🇫🇷"
-	},
-	"4": {
-		"contractAddress": "0x0F59f76f021BAfA4bc3E264E75199aFE5D839335",
-		"gameName": "🌞 Summer Savers 🌞"
-	},
-	"5": {
-		"contractAddress": "0x4aC6C237160275144B63814227eC71797257e25a",
-		"gameName": "Mask Network Pool"
-	},
-        "default": {
-		"contractAddress": "0x4aC6C237160275144B63814227eC71797257e25a",
-		"gameName": "Mask Network Pool"
-	}
+   "1":{
+      "contractAddress":"0x360BBC11322C77Dadc1DDCdb26224271C96CFD47",
+      "gameName":"Beta Pool"
+   },
+   "2":{
+      "contractAddress":"0xB81E1db4771C28250C98b3099Ec9962e269b4022",
+      "gameName":"Meta Gamma Delta Exclusive Pool"
+   },
+   "3":{
+      "contractAddress":"0x9B5B6B4E889faca1e4Fc836a12102d6ffe8B5f52",
+      "gameName":"EthCC Savings Pool 🇫🇷"
+   },
+   "4":{
+      "contractAddress":"0x0F59f76f021BAfA4bc3E264E75199aFE5D839335",
+      "gameName":"🌞 Summer Savers 🌞"
+   },
+   "5":{
+      "contractAddress":"0x4aC6C237160275144B63814227eC71797257e25a",
+      "gameName":"Mask Network Pool"
+   },
+   "7":{
+      "contractAddress":"0xDe59e1fD6A33091c0f34c675ACc455d85620C7d6",
+      "gameName":"Monthly 200 DAI Pool"
+   },
+   "8":{
+      "contractAddress":"0x379eAC144939570B3F9289580Ef7C8a1F7f76259",
+      "gameName":"Monthly 50 DAI Pool"
+   },
+   "default":{
+      "contractAddress":"0xDe59e1fD6A33091c0f34c675ACc455d85620C7d6",
+      "gameName":"Monthly 200 DAI Pool"
+   }
 }
