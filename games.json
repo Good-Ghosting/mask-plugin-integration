@@ -27,6 +27,10 @@
       "contractAddress":"0x379eAC144939570B3F9289580Ef7C8a1F7f76259",
       "gameName":"Monthly 50 DAI Pool"
    },
+   "9":{
+      "contractAddress":"0xCC4655Afe3A6Ce03faE33625F5Dfb9592F8F1825",
+      "gameName":"Bankless DAO Pool"
+   },
    "default":{
       "contractAddress":"0xDe59e1fD6A33091c0f34c675ACc455d85620C7d6",
       "gameName":"Monthly 200 DAI Pool"
