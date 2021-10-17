@@ -39,8 +39,12 @@
       "contractAddress":"0x6768A8A3dCD689aea3de2A3A51a7626040e8415b",
       "gameName":"Cometh"
    },
+   "15":{
+      "contractAddress":"0x83b47F72D880993CaCC7d612F80B75220ad9C217",
+      "gameName":"ETHLisbon"
+   },
    "default":{
-      "contractAddress":"0xDe59e1fD6A33091c0f34c675ACc455d85620C7d6",
-      "gameName":"Monthly 200 DAI Pool"
+      "contractAddress":"0x83b47F72D880993CaCC7d612F80B75220ad9C217",
+      "gameName":"ETHLisbon"
    }
 }
