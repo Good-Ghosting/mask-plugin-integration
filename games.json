@@ -43,6 +43,34 @@
       "contractAddress":"0x83b47F72D880993CaCC7d612F80B75220ad9C217",
       "gameName":"ETHLisbon"
    },
+   "16":{
+      "contractAddress": "0x6DB09107Ba2aeb750691d67329A866EF7573Dd5E",
+      "gameName": "Celoween"
+   },
+   "17": {
+      "contractAddress":"0x90f13aBbe52A1055B7eE3A69654C2a924CFB6a7d",
+      "gameName": "Snow Pool"
+   },
+   "18": {
+      "contractAddress":"0x388C3Df56A924594230e9Ca689CaBe29055b87CC",
+      "gameName":"Crypto Colosseum"
+   },
+   "19": {
+      "contractAddress":"0x063502593e72726eBAD778e9E9648fb69e8E5f38",
+      "gameName":"Celo Punks"
+   },
+   "20": {
+      "contractAddress":"0xbdAbD380D0f16a3F0bB03c5E186C834B90002924",
+      "gameName":"Celo NFTs"
+   },
+   "22": {
+      "contractAddress":"0xe2Db3Ff23adF232b0dB2c652d50B413f6511BAcd",
+      "gameName":"100 cUSD"
+   },
+   "23": {
+      "contractAddress":"0x1D1371508dbD1C5C361780e397835B15DaCb4261",
+      "gameName":"10 CELO"
+   },
    "default":{
       "contractAddress":"0x83b47F72D880993CaCC7d612F80B75220ad9C217",
       "gameName":"ETHLisbon"
