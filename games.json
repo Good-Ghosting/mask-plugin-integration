@@ -43,8 +43,24 @@
       "contractAddress":"0x83b47F72D880993CaCC7d612F80B75220ad9C217",
       "gameName":"ETHLisbon"
    },
+   "18":{
+      "contractAddress":"0x388C3Df56A924594230e9Ca689CaBe29055b87CC",
+      "gameName":"Crypto Colosseum"
+   },
+   "24":{
+      "contractAddress":"0xB12695e555Ce0d0ed2B8d3db90A027e234697D98",
+      "gameName":"Advent Pool"
+   },
+   "25":{
+      "contractAddress":"0xAc2dEf60D45B8bBA10cc08d32908364747eE5Af2",
+      "gameName":"Future Pool"
+   },
+   "2021":{
+      "contractAddress":"0x173fdeEaC60418750c11d6B9Cc0c1c0E33111cec",
+      "gameName":"Kenyan Digital Microworkers 🇰🇪"
+   },
    "default":{
-      "contractAddress":"0x83b47F72D880993CaCC7d612F80B75220ad9C217",
-      "gameName":"ETHLisbon"
+      "contractAddress":"0xAc2dEf60D45B8bBA10cc08d32908364747eE5Af2",
+      "gameName":"Future Pool"
    }
 }
