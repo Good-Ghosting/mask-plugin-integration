@@ -59,8 +59,12 @@
       "contractAddress":"0x173fdeEaC60418750c11d6B9Cc0c1c0E33111cec",
       "gameName":"Kenyan Digital Microworkers 🇰🇪"
    },
+   "27":{
+      "contractAddress":"0x242418F5eC3c218fa339eDE8C31eA22a928FbD55",
+      "gameName":"Unstoppable 2022 Pool"
+   },
    "default":{
-      "contractAddress":"0xAc2dEf60D45B8bBA10cc08d32908364747eE5Af2",
-      "gameName":"Future Pool"
+      "contractAddress":"0x242418F5eC3c218fa339eDE8C31eA22a928FbD55",
+      "gameName":"Unstoppable 2022 Pool"
    }
 }
